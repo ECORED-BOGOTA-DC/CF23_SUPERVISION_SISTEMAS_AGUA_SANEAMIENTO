@@ -2,7 +2,7 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    p.mb-5 A continuación, se muestra un mapa conceptual con los elementos más importantes desarrollados en este componente.
+    p.mb-5 La separación de residuos en una planta de tratamiento es un proceso crucial para garantizar una gestión efectiva y responsable de los desechos. Consiste en clasificar los residuos según su naturaleza, composición y nivel de peligrosidad. La separación de residuos es una práctica fundamental para maximizar la eficiencia del proceso y cumplir con los estándares ambientales establecidos. Sabiendo esto y para una breve revisión de los temas vistos, puede observar el siguiente esquema:
 
     .row.justify-content-center
       .col-lg-10.mb-5
