@@ -116,7 +116,7 @@
         .BGIMG03
           img(src='@/assets/curso/tema1/img09C.svg')
 
-    p Una cámara de rejillas es una estructura utilizada en el proceso de tratamiento de aguas residuales para la remoción de sólidos gruesos y materiales flotantes. Ayuda a prevenir obstrucciones y daños en los equipos de tratamiento posteriores. La cámara de rejillas consta de los siguientes componentes principales:
+    p.mb-5 Una cámara de rejillas es una estructura utilizada en el proceso de tratamiento de aguas residuales para la remoción de sólidos gruesos y materiales flotantes. Ayuda a prevenir obstrucciones y daños en los equipos de tratamiento posteriores. La cámara de rejillas consta de los siguientes componentes principales:
 
     .row.justify-content-center.mb-4
       .col-lg-8

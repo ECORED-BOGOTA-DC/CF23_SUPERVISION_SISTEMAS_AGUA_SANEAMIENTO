@@ -67,7 +67,7 @@
       .col-lg-8.cajon.color-primario.p-4.z-index-1(data-aos="fade-left")
         .row.justify-content-end
           .col-lg-8
-            p.mb-0 Cada uno de los residuos debe ser separado de acuerdo con lo establecido en la Guía Técnica Colombiana (GTC) 24 de 2009, para, posteriormente, ser aprovechados según los lineamientos de la Guía Técnica Colombiana (GTC) 53 que corresponda.
+            p.mb-0 Cada uno de los residuos debe ser separado de acuerdo con lo establecido en la #[strong #[em Guía Técnica Colombiana (GTC) 24 de 2009]], para, posteriormente, ser aprovechados según los lineamientos de la Guía Técnica Colombiana (GTC) 53 que corresponda.
       .col-lg-2.d-lg-flex.d-none
 
     separador
