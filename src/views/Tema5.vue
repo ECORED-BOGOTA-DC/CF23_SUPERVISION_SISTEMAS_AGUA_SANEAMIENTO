@@ -9,7 +9,7 @@
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-1.col-2(data-aos="fade-right")
-        img(src='@/assets/curso/tema5/img01.png')
+        img(src='@/assets/curso/tema5/img01.png' alt="Imagen decorativa")
       .col(data-aos="fade-left")
         p.mb-0 En el siguiente video, se abordará la importancia de cumplir con la normatividad ambiental vigente en las Plantas de Tratamiento de Aguas Residuales (PTAR). En este sentido, la gestión integral de los residuos desempeña un papel fundamental para garantizar el adecuado manejo y protección del medio ambiente. Se invita a ver el siguiente recurso.
     
@@ -20,7 +20,7 @@
     .BGR04.p-4.mb-4
       .row.justify-content-center.align-items-center
         .col-lg-3.col-6.mb-lg-0.mb-4
-          img(src="@/assets/curso/tema5/img02.svg")
+          img(src="@/assets/curso/tema5/img02.svg" alt="Imagen decorativa")
         .col-lg-9
           .titulo-segundo.color-secundario
             .h4 Para ampliar información sobre

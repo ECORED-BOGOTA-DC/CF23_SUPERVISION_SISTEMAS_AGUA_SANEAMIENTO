@@ -12,21 +12,21 @@
         p Cuando se identifica dentro de una planta de tratamiento de aguas residuales la fuente de generación de residuos sólidos, no se hace referencia a la persona que, por ejemplo, arrojó a los canales de la ciudad un papel, sino que se hace referencia al equipo de tratamiento que remueve dicho residuo.
         p.mb-0 Las etapas destinadas a la remoción de sólidos gruesos se conocen como pretratamiento; además de esta función, aquí se realiza una regulación del caudal que ingresa a la #[strong Planta de Tratamiento de Aguas Residuales (PTAR)], se airean las aguas con la ayuda de la generación de turbulencia y se hace la adición de productos químicos, en caso de ser necesario, para los tratamientos primarios. Algunos residuos y formación de espuma se pueden observar en una planta de tratamiento de aguas residuales. A continuación, se presentan algunos ejemplos:
       .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-        img(src='@/assets/curso/tema1/img01.png')
+        img(src='@/assets/curso/tema1/img01.png' alt="Imagen decorativa")
 
     .row.justify-content-center.mb-5
       .col-lg-6.col-md-10.mb-lg-0.mb-4(data-aos="fade-right")   
         .BGR01
           .row.justify-content-center.align-items-center
             .col-lg-4.col-6
-              img(src='@/assets/curso/tema1/img02.png')
+              img(src='@/assets/curso/tema1/img02.png' alt="Imagen decorativa")
             .col-lg-8.p-4
               .h4.mb-0 Residuos de un interceptor de trampa de grasa de restaurante.
       .col-lg-6.col-md-10(data-aos="fade-left")
         .BGR01
           .row.justify-content-center.align-items-center
             .col-lg-4.col-6
-              img(src='@/assets/curso/tema1/img03.png')
+              img(src='@/assets/curso/tema1/img03.png' alt="Imagen decorativa")
             .col-lg-8.p-4
               .h4.mb-0 Formación de espuma en el depósito de aireación de una planta de tratamiento de aguas residuales.
 
@@ -38,7 +38,7 @@
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema1/img04.png')
+        img(src='@/assets/curso/tema1/img04.png' alt="Imagen decorativa")
       .col-lg-8(data-aos="fade-left")
         p.mb-0 Es un proceso que se lleva a cabo mediante rejas formadas por barras verticales o inclinadas, que interceptan el flujo de la corriente de agua residual en un canal de entrada a la estación depuradora. Su misión es retener y separar los sólidos más voluminosos, a fin de evitar las obstrucciones en los equipos mecánicos de la planta y facilitar la eficacia de los tratamientos posteriores. Estas rejas pueden ser de dos tipos: entre 50 y 150 mm  de separación de los barrotes (desbaste grueso) y entre 10 y 20 mm (desbaste fino). Estas rejas disponen de un sistema de limpieza que separa las materias retenidas.
 
@@ -52,12 +52,12 @@
     .row.justify-content-center.mb-5
       .col-lg-6.col-10.mb-lg-0.mb-4(data-aos="fade-right")
         .tarjeta-avatar
-          img(src='@/assets/curso/tema1/img05.png')
+          img(src='@/assets/curso/tema1/img05.png' alt="Imagen decorativa")
           .BGR01.hg-01.pt-5.px-4.pb-4
             p.mt-4.mb-0 #[strong Las rejillas gruesas] (con aberturas iguales o mayores de 0,64 cm), proteger las bombas, válvulas, tuberías y equipos del taponamiento o interferencia causado por trapos, tarros y objetos.
       .col-lg-6.col-10(data-aos="fade-left")
         .tarjeta-avatar
-          img(src='@/assets/curso/tema1/img06.png')
+          img(src='@/assets/curso/tema1/img06.png' alt="Imagen decorativa")
           .BGR01.hg-01.pt-5.px-4.pb-4
             p.mt-4.mb-0 #[strong Las rejillas finas] (aberturas menores de 0,64 cm), que son de tipo disco o tambor, que retienen otro tipo de sólidos como particulas más pequeñas.
 
@@ -67,7 +67,7 @@
       .col-lg-6.col-10.mb-lg-0.mb-4(data-aos="fade-right")
         .BGR03.hg-02.p-4
           figure.mb-4  
-            img(src='@/assets/curso/tema1/img07.png')
+            img(src='@/assets/curso/tema1/img07.png' alt="Imagen decorativa")
           .h4 Manual
           ul.lista-ul--color
             li.d-flex(style="margin-bottom: 2px")
@@ -88,7 +88,7 @@
       .col-lg-6.col-10.mb-lg-0.mb-4(data-aos="fade-left")
         .BGR03.hg-02.p-4
           figure.mb-4  
-            img(src='@/assets/curso/tema1/img08.png')
+            img(src='@/assets/curso/tema1/img08.png' alt="Imagen decorativa")
           .h4 Mecánica
           ul.lista-ul--color
             li.d-flex(style="margin-bottom: 2px")
@@ -108,13 +108,13 @@
       .col-xl-3.col-4.px-0(data-aos="fade-right")
         .BGIMG01
           figure
-            img(src='@/assets/curso/tema1/img09A.svg')
+            img(src='@/assets/curso/tema1/img09A.svg' alt="Imagen que describe uno de los métodos utilizados para la disposición de material y es el siguiente: Descarga a un molino, triturador o desmenuzador, y recirculación a la plata de tratamiento.")
       .col-xl-3.col-4.px-0(data-aos="flip-up")
         .BGIMG02.top-12
-          img(src='@/assets/curso/tema1/img09B.svg')
+          img(src='@/assets/curso/tema1/img09B.svg' alt="Imagen que describe uno de los métodos utilizados para la disposición de material y es el siguiente: Remoción y disposición final a un relleno sanitario.")
       .col-xl-3.col-4.px-0(data-aos="fade-left")
         .BGIMG03
-          img(src='@/assets/curso/tema1/img09C.svg')
+          img(src='@/assets/curso/tema1/img09C.svg' alt="Imagen que describe uno de los métodos utilizados para la disposición de material y es el siguiente: Incineración especialmente en plantas grandes y bajo los lineamientos de la normatividad aplicable.")
 
     p.mb-5 Una cámara de rejillas es una estructura utilizada en el proceso de tratamiento de aguas residuales para la remoción de sólidos gruesos y materiales flotantes. Ayuda a prevenir obstrucciones y daños en los equipos de tratamiento posteriores. La cámara de rejillas consta de los siguientes componentes principales:
 
@@ -124,7 +124,7 @@
           h5 Figura 1
           span Ejemplo de cámara de rejillas
         figure(data-aos="zoom-in")
-          img(src='@/assets/curso/tema1/img10.svg')
+          img(src='@/assets/curso/tema1/img10.svg' alt="Figura 1 que muestra el ejemplo de una cámara de rejillas que muestra la planta, rejilla,  las rejillas de limpieza manual y el corte.")
           figcaption Nota. <a style="font-weight: 400">Tomada de Romero (2010, p. 291).</a>
 
     separador
@@ -133,7 +133,7 @@
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema1/img11.png')
+        img(src='@/assets/curso/tema1/img11.png' alt="Imagen decorativa")
       .col-lg-8(data-aos="fade-left")
         p.mb-0 Estas instalaciones se sitúan en las plantas de tratamiento después del desbaste, y tienen como objetivo extraer del agua bruta las partículas minerales de tamaño superior a uno fijado en el diseño, generalmente 200 micras. El funcionamiento técnico del desarenador reside en hacer circular el agua en una cámara, de forma que la velocidad quede controlada para permitir el depósito de arena en el fondo. Normalmente, esta arena sedimentada queda desprovista casi en su totalidad de materia orgánica y es evacuada, mediante bombas, al clasificador de arenas y, posteriormente, a un contenedor.
 
@@ -146,7 +146,7 @@
         p El equipo para realizar este proceso se conoce como desarenador, el cual remueve arena, grava, partículas y otro material sólido pesado que tenga velocidad de asentamiento o peso específico bastante mayor que el de los sólidos orgánicos degradables de las aguas residuales. 
         p.mb-0 De acuerdo con Romero (2010), en su documento Tratamiento de aguas residuales, teoría y principios de diseño, es importante reconocer que este equipo “#[strong #[em protegen el equipo mecánico del desgaste anormal y reduce la formación de depósitos pesados en tuberías, canales y conductos, además, minimiza la frecuencia requerida de limpieza de los digestores en aquellos casos en que se presenta una acumulación excesiva de arena en dichas unidades]]” (p. 293). 
       .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-        img(src='@/assets/curso/tema1/img12.png')
+        img(src='@/assets/curso/tema1/img12.png' alt="Imagen decorativa")
 
     .row.justify-content-start.mb-4
       .col-auto.BGRS02.px-5.py-3(data-aos="fade-right")
@@ -158,7 +158,7 @@
         p La cantidad de arena acumulada en el desarenador y la disposición de la arena son consideraciones importantes durante el proceso de limpieza del desarenador. 
         p.mb-0 A medida que la arena y los sedimentos se acumulan en el fondo del desarenador, es necesario llevar a cabo una limpieza periódica para mantener su eficiencia y capacidad de remoción de sólidos. Veamos el siguiente recurso. 
       .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-        img(src='@/assets/curso/tema1/img13.png')
+        img(src='@/assets/curso/tema1/img13.png' alt="Imagen que contiene información relevante sobre el desarenador de flujo horizontal y su formula, esto es: Desarenador de Flujo Horizontal Flujo<br>Compuerta de entrada <br>A <br>H <br>A <br>A= Q/Vh <br>1< a/h <5 <br>A= Area Transversal (m2) <br>Q= Caudal medio (m3/h) <br>Vh= Velocidad horizontal (m/h) <br>a= ancho canal (m) <br>h=alto canal (m)")
   
     TabsB.color-acento-contenido.mb-5(data-aos="zoom-in")
       .py-4.py-md-5(titulo="Cantidad de arena" :icono="require('@/assets/curso/tema1/img14.png')")
@@ -167,14 +167,14 @@
             p La cantidad de arena generada en una unidad operativa varía según factores, como el área de drenaje, las condiciones y el tipo de alcantarillado del agua residual. En áreas urbanas, esto puede incluir el lavado de calles, residuos industriales, desmenuzadores de basura y la composición demográfica. En zonas costeras, la proximidad a playas, balnearios y canteras también influye. Por lo general, la cantidad de arena a desechar oscila entre 4 y 200 ml/m3 de agua tratada, con un promedio de 15 ml/m3.
             p.mb-0 Sin embargo, es importante realizar cálculos precisos teniendo en cuenta el caudal y otros parámetros para garantizar un adecuado almacenamiento, manejo y disposición de la arena.
           .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema1/img15.png')
+            img(src='@/assets/curso/tema1/img15.png' alt="Imagen decorativa")
       .py-4.py-md-5(titulo="Disposición de la arena" :icono="require('@/assets/curso/tema1/img14.png')")
         .row.justify-content-center
           .col-lg-6.order-lg-1.order-2
             p Es importante tener en cuenta que la arena removida llevará gran cantidad de impurezas y material orgánico putrescible, por ello, debe hacerse una disposición rápidamente o se presentarán olores desagradables y atraerá vectores (insectos y roedores).
             p.mb-0 Dentro de los métodos más usados, están la disposición en rellenos sanitarios, incineración, disposición en el mar, o un tratamiento previo de remoción de material orgánico y lavado, todos bajo autorización de la entidad ambiental.
           .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
-            img(src='@/assets/curso/tema1/img16.png')
+            img(src='@/assets/curso/tema1/img16.png' alt="Imagen decorativa")
 
     p.mb-5 A continuación, se puede observar un ejemplo de rejillas y desarenadores propuestos por Romero (2010) en el Tratamiento de aguas residuales.
 
@@ -184,7 +184,7 @@
           h5 Figura 2
           span Ejemplo de rejillas y desarenadores
         figure(data-aos="zoom-in")
-          img(src='@/assets/curso/tema1/img17.svg')
+          img(src='@/assets/curso/tema1/img17.svg' alt="Figura 2 que describe un ejemplo de cómo está estructurada una rejilla y un desarenador, y contiene la siguiente información: El rastrillo puede alcanzar el fondo del tanque. AFLUENTE. POZO DE SOLIDOS PESADOS. REJILLA REMOVIBLE. TANQUE DE DETRITUS. EFLUENTE. COMPUERTAS. CORTE A-A.")
           figcaption Nota. <a style="font-weight: 400">Romero (2010, p. 292).</a>
     
     separador
@@ -197,12 +197,12 @@
         .cajon.color-primario.p-4
           .row.justify-content-center
             .col-lg-3.col-6.px-5.mb-lg-0.mb-4
-              img(src='@/assets/curso/tema1/img18.svg')
+              img(src='@/assets/curso/tema1/img18.svg' alt="Imagen decorativa")
             .col-lg-9
               .h4 Nota importante:
               p.mb-0 En muchas plantas de tratamiento, las fases de desarenado y desengrasado se verifican en la misma cámara, en una instalación combinada.
       .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-        img(src='@/assets/curso/tema1/img19.png')
+        img(src='@/assets/curso/tema1/img19.png' alt="Imagen decorativa")
     
     .row.justify-content-start.mb-4
       .col-auto.BGRS02.px-5.py-3(data-aos="fade-right")
@@ -210,7 +210,7 @@
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema1/img20.png')
+        img(src='@/assets/curso/tema1/img20.png' alt="Imagen decorativa")
       .col-lg-8(data-aos="fade-left")
         p Este es un equipo que puede ser usado para el proceso de desengrasado; se encuentran de gran tamaño o de tamaños reducidos, para instalaciones como sistema previo al vertimiento; su objetivo es prevenir el taponamiento de las tuberías y su efecto en la acción bacterial.
         p Las grasas y aceites son un grupo de sustancias con características físicas similares, incluyen material de origen vegetal, de tejido animal, petróleo o componentes del petróleo y otros materiales extraídos por el solvente.
@@ -227,7 +227,7 @@
         .cajon.color-primario.p-4
           p.mb-0 Este equipo requiere un mantenimiento constante y una limpieza continua que se basa en retirar todas las grasas y aceites acumulados en la superficie.
       .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-        img(src='@/assets/curso/tema1/img21.png')
+        img(src='@/assets/curso/tema1/img21.png' alt="Imagen decorativa")
       
     .row.justify-content-center.mb-4
       .col-lg-8
@@ -235,7 +235,7 @@
           h5 Figura 3
           span Trampa de grasas
         figure(data-aos="zoom-in")
-          img(src='@/assets/curso/tema1/img22.svg')
+          img(src='@/assets/curso/tema1/img22.svg' alt="Figura 3.muestra los planos de una trampa de grasas con las medidas correspondientes: PLANTA <br>2 a 3 x W <br>0,75 m <br>0,5 <br>0,6 <br>0,1m <br>0,075m <br>0,23m <br>Tubería sanitaria <br>0,17 m <br>0,35 m <br>0,6 - 0,9m")
           figcaption Nota. <a style="font-weight: 400">Romero (2010, p. 729).</a>
     
     separador
@@ -250,7 +250,7 @@
         .titulo-sexto.color-acento-contenido(data-aos="fade-right")
           h5 Figura 4
           span Resumen de parámetros de diseño de operaciones de pretratamiento
-        .tabla-b.color-acento-contenido.mb-4(data-aos="zoom-in")
+        .tabla-b.color-acento-contenido.mb-4(data-aos="zoom-in" alt="Figura4, se resumen los parámetros de un diseño de operaciones de pretratamiento para el desbaste, el desarenador y el desengrasado con sus respectivas medidas.")
           table
             tbody
               tr

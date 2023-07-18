@@ -9,7 +9,7 @@
     
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-1.col-2(data-aos="fade-right")
-        img(src='@/assets/curso/tema2/img01.png')
+        img(src='@/assets/curso/tema2/img01.png' alt="Imagen decorativa")
       .col(data-aos="fade-left")
         p.mb-0 Es importante realizar acciones que logren mantener los sistemas lo más limpios posible, por ello, una de las más recomendadas son las acciones de mantenimiento, las cuales se pueden subdividir en mantenimiento preventivo y mantenimiento correctivo.
     
@@ -23,7 +23,7 @@
       .col-xl-4.col-lg-6.col-md-8.col-sm-10.mb-xl-0.mb-4(data-aos="fade-right")
         .tarjetas-up(@mouseover="mostrarIndicador = false")
           .indicador--hover(v-if="mostrarIndicador")
-          img(src='@/assets/curso/tema2/img02.png')
+          img(src='@/assets/curso/tema2/img02.png' alt="Imagen decorativa")
           .tarjetas-up_card.BGRS03.p-xl-4.p-lg-3.p-4
             .title.d-flex.align-items-center.mb-4
               span
@@ -49,7 +49,7 @@
       .col-xl-4.col-lg-6.col-md-8.col-sm-10.mb-xl-0.mb-4(data-aos="flip-up")
         .tarjetas-up(@mouseover="mostrarIndicador = false")
           .indicador--hover(v-if="mostrarIndicador")
-          img(src='@/assets/curso/tema2/img03.png')
+          img(src='@/assets/curso/tema2/img03.png' alt="Imagen decorativa")
           .tarjetas-up_card.BGRS03.p-xl-4.p-lg-3.p-4
             .title.d-flex.align-items-center.mb-4
               span
@@ -72,7 +72,7 @@
       .col-xl-4.col-lg-6.col-md-8.col-sm-10(data-aos="fade-left")
         .tarjetas-up(@mouseover="mostrarIndicador = false")
           .indicador--hover(v-if="mostrarIndicador")
-          img(src='@/assets/curso/tema2/img04.png')
+          img(src='@/assets/curso/tema2/img04.png' alt="Imagen decorativa")
           .tarjetas-up_card.BGRS03.p-xl-4.p-lg-3.p-4
             .title.d-flex.align-items-center.mb-4
               span
