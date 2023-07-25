@@ -152,11 +152,7 @@ export default {
         titulo: 'Descargar PDF',
         download: 'downloads/CFA23.pdf',
       },
-      {
-        icono: 'fas fa-download',
-        titulo: 'Descargar material',
-        download: 'downloads/material.zip',
-      },
+
       {
         icono: 'far fa-registered',
         titulo: 'Créditos',

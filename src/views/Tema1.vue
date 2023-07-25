@@ -59,7 +59,7 @@
         .tarjeta-avatar
           img(src='@/assets/curso/tema1/img06.png' alt="Imagen decorativa")
           .BGR01.hg-01.pt-5.px-4.pb-4
-            p.mt-4.mb-0 #[strong Las rejillas finas] (aberturas menores de 0,64 cm), que son de tipo disco o tambor, que retienen otro tipo de sólidos como particulas más pequeñas.
+            p.mt-4.mb-0 #[strong Las rejillas finas] (aberturas menores de 0,64 cm), que son de tipo disco o tambor, que retienen otro tipo de sólidos como partículas más pequeñas.
 
     p El mantenimiento y método de limpieza pueden ser realizados de dos formas principales: manual o mecánica. A continuación, les proporcionaré información sobre ambos métodos: 
 
@@ -164,7 +164,7 @@
       .py-4.py-md-5(titulo="Cantidad de arena" :icono="require('@/assets/curso/tema1/img14.png')")
         .row.justify-content-center
           .col-lg-6.order-lg-1.order-2
-            p La cantidad de arena generada en una unidad operativa varía según factores, como el área de drenaje, las condiciones y el tipo de alcantarillado del agua residual. En áreas urbanas, esto puede incluir el lavado de calles, residuos industriales, desmenuzadores de basura y la composición demográfica. En zonas costeras, la proximidad a playas, balnearios y canteras también influye. Por lo general, la cantidad de arena a desechar oscila entre 4 y 200 ml/m3 de agua tratada, con un promedio de 15 ml/m3.
+            p La cantidad de arena generada en una unidad operativa varía según factores, como el área de drenaje, las condiciones y el tipo de alcantarillado del agua residual. En áreas urbanas, esto puede incluir el lavado de calles, residuos industriales, desmenuzadores de basura y la composición demográfica. En zonas costeras, la proximidad a playas, balnearios y canteras también influye. Por lo general, la cantidad de arena a desechar oscila entre 4 y 200 ml/m<sup>3</sup> de agua tratada, con un promedio de 15 ml/m<sup>3</sup>.
             p.mb-0 Sin embargo, es importante realizar cálculos precisos teniendo en cuenta el caudal y otros parámetros para garantizar un adecuado almacenamiento, manejo y disposición de la arena.
           .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
             img(src='@/assets/curso/tema1/img15.png' alt="Imagen decorativa")
@@ -214,7 +214,7 @@
       .col-lg-8(data-aos="fade-left")
         p Este es un equipo que puede ser usado para el proceso de desengrasado; se encuentran de gran tamaño o de tamaños reducidos, para instalaciones como sistema previo al vertimiento; su objetivo es prevenir el taponamiento de las tuberías y su efecto en la acción bacterial.
         p Las grasas y aceites son un grupo de sustancias con características físicas similares, incluyen material de origen vegetal, de tejido animal, petróleo o componentes del petróleo y otros materiales extraídos por el solvente.
-        p.mb-0 En aguas residuales domésticas, el contenido de grasas y aceites puede ser del orden de 30 a 50 mg/l pero en aguas residuales no domésticas, la concentración suele ser mucho mayor; la importancia de su remoción es porque, al acumularse en las alcantarillas y bombas, pueden obstruirse, disminuir el flujo y afectar los lodos producidos.
+        p.mb-0 En aguas residuales domésticas, el contenido de grasas y aceites puede ser del orden de 30 a 50 mg/l, pero en aguas residuales no domésticas, la concentración suele ser mucho mayor; la importancia de su remoción es porque, al acumularse en las alcantarillas y bombas, pueden obstruirse, disminuir el flujo y afectar los lodos producidos.
 
     .row.justify-content-start.mb-4
       .col-auto.BGRS02.px-5.py-3(data-aos="fade-right")

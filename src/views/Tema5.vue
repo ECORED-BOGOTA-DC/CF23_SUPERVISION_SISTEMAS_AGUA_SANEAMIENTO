@@ -25,29 +25,25 @@
           .titulo-segundo.color-secundario
             .h4 Para ampliar información sobre
           .row.justify-content-around.align-items-center.mb-4
-            .col-9
+            .col.mb-3.mb-sm-0
               ul.lista-ul--color
                 li.d-flex
                   i.fas.fa-plus-circle(style="color: #3076B6;")
                   p.mb-0 Residuos peligrosos, consultar el documento “#[strong #[em Gestión integral de residuos o desechos peligrosos]]” en el material complementario.
-            .col-3
-              .row
-                .col-sm-auto
-                  a.boton.color-acento-botones.text-white(:href="obtenerLink('/downloads/Gestion_Integral_Residuos_Desechos_Peligrosos.pdf')" target="_blank" type="application/pdf")
-                    span(style="color: #000; font-weight: 400") Descargar
-                    i.fas.fa-file-download(style="color: #000")
+            .col-sm-auto
+              a.boton.color-acento-botones.text-white(:href="obtenerLink('/downloads/Gestion_Integral_Residuos_Desechos_Peligrosos.pdf')" target="_blank" type="application/pdf")
+                span(style="color: #000; font-weight: 400") Descargar
+                i.fas.fa-file-download(style="color: #000")
           .row.justify-content-around.align-items-center.mb-4
-            .col-9
+            .col.mb-3.mb-sm-0
               ul.lista-ul--color
                 li.d-flex
                   i.fas.fa-plus-circle(style="color: #3076B6;")
                   p.mb-0 Los planes de manejo ambiental, consultar el documento “#[strong #[em Guía técnica para la elaboración de Planes de Manejo Ambiental (PMA)]]” en el material complementario.
-            .col-3
-              .row
-                .col-sm-auto
-                  a.boton.color-acento-botones.text-white(:href="obtenerLink('/downloads/Guia_tecnica_para_la_elaboracion_de_planes.pdf')" target="_blank" type="application/pdf")
-                    span(style="color: #000; font-weight: 400") Descargar
-                    i.fas.fa-file-download(style="color: #000")
+            .col-sm-auto
+              a.boton.color-acento-botones.text-white(:href="obtenerLink('/downloads/Guia_tecnica_para_la_elaboracion_de_planes.pdf')" target="_blank" type="application/pdf")
+                span(style="color: #000; font-weight: 400") Descargar
+                i.fas.fa-file-download(style="color: #000")
 
 </template>
 
