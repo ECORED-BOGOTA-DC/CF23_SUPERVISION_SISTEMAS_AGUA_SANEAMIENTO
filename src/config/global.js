@@ -152,7 +152,11 @@ export default {
         titulo: 'Descargar PDF',
         download: 'downloads/CFA23.pdf',
       },
-
+      {
+        icono: 'fas fa-download',
+        titulo: 'Descargar material',
+        download: 'downloads/material.zip',
+      },
       {
         icono: 'far fa-registered',
         titulo: 'Créditos',
@@ -180,8 +184,7 @@ export default {
       referencia:
         'Bermeo, M. (2016). <em> Tratamiento de aguas residuales: Técnicas convencionales</em>.',
       tipo: 'Documento',
-      link:
-        'http://142.93.18.15:8080/jspui/bitstream/123456789/68/1/COMPLETO_libro_aguaUltimoPDF.pdf',
+      descarga: '/downloads/COMPLETO_libro_aguaUltimoPDF.pdf',
     },
     {
       tema: 'Manejo de residuos en la PTAR',
@@ -258,8 +261,7 @@ export default {
     {
       referencia:
         'Bermeo, M. (2016). Tratamiento de aguas residuales: Técnicas convencionales.',
-      link:
-        'http://142.93.18.15:8080/jspui/bitstream/123456789/68/1/COMPLETO_libro_aguaUltimoPDF.pdf',
+      descarga: '/downloads/COMPLETO_libro_aguaUltimoPDF.pdf',
     },
     {
       referencia:
