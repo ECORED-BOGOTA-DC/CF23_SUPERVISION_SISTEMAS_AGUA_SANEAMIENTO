@@ -121,7 +121,7 @@
     .row.justify-content-center.mb-4
       .col-lg-8
         .titulo-sexto.color-acento-contenido(data-aos="fade-right")
-          h5 Figura 1
+          h5 Figura 1.
           span Ejemplo de cámara de rejillas
         figure(data-aos="zoom-in")
           img(src='@/assets/curso/tema1/img10.svg' alt="Figura 1 que muestra el ejemplo de una cámara de rejillas que muestra la planta, rejilla,  las rejillas de limpieza manual y el corte.")
@@ -181,7 +181,7 @@
     .row.justify-content-center.mb-4
       .col-lg-8
         .titulo-sexto.color-acento-contenido(data-aos="fade-right")
-          h5 Figura 2
+          h5 Figura 2.
           span Ejemplo de rejillas y desarenadores
         figure(data-aos="zoom-in")
           img(src='@/assets/curso/tema1/img17.svg' alt="Figura 2 que describe un ejemplo de cómo está estructurada una rejilla y un desarenador, y contiene la siguiente información: El rastrillo puede alcanzar el fondo del tanque. AFLUENTE. POZO DE SOLIDOS PESADOS. REJILLA REMOVIBLE. TANQUE DE DETRITUS. EFLUENTE. COMPUERTAS. CORTE A-A.")
@@ -232,7 +232,7 @@
     .row.justify-content-center.mb-4
       .col-lg-8
         .titulo-sexto.color-acento-contenido(data-aos="fade-right")
-          h5 Figura 3
+          h5 Figura 3.
           span Trampa de grasas
         figure(data-aos="zoom-in")
           img(src='@/assets/curso/tema1/img22.svg' alt="Figura 3.muestra los planos de una trampa de grasas con las medidas correspondientes: PLANTA <br>2 a 3 x W <br>0,75 m <br>0,5 <br>0,6 <br>0,1m <br>0,075m <br>0,23m <br>Tubería sanitaria <br>0,17 m <br>0,35 m <br>0,6 - 0,9m")
@@ -248,7 +248,7 @@
     .row.justify-content-center.mb-4
       .col-lg-10
         .titulo-sexto.color-acento-contenido(data-aos="fade-right")
-          h5 Figura 4
+          h5 Figura 4.
           span Resumen de parámetros de diseño de operaciones de pretratamiento
         .tabla-b.color-acento-contenido.mb-4(data-aos="zoom-in" alt="Figura4, se resumen los parámetros de un diseño de operaciones de pretratamiento para el desbaste, el desarenador y el desengrasado con sus respectivas medidas.")
           table
