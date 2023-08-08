@@ -242,7 +242,7 @@
     #t_1_4.titulo-segundo.color-acento-botones(data-aos="fade-right")
       h2 1.4 Otros elementos
 
-    p Otros elementos del pretratamiento son el Aliviadero y el Medidor de Caudal. El aliviadero, permite que la planta funcione siempre según el caudal del proyecto y, juntamente con el medidor del caudal, aprueba controlar la cantidad de agua que entra en la planta.
+    p Otros elementos del pretratamiento son el Aliviadero y el Medidor de Caudal. El aliviadero permite que la planta funcione siempre según el caudal del proyecto y, juntamente con el medidor del caudal, aprueba controlar la cantidad de agua que entra en la planta.
     p.mb-5 Es importante siempre tener claros los parámetros de cada proceso, para ello, en las plantas de tratamiento, se suelen tener tablas de manejo de operaciones de pretratamiento, donde se brinda la información mínima que se puede obtener de cada fase.
 
     .row.justify-content-center.mb-4
@@ -319,7 +319,7 @@
 
               tr
                 th(style="border: 2px solid #707070;border-left: 40px solid #3076B6; width: 24%; font-size: 18px;" rowspan="12").text-center Desengrasado
-                td(style="border: 2px solid #707070;background-color: #F3F9FF" colspan="3") Velocidad asensorial
+                td(style="border: 2px solid #707070;background-color: #F3F9FF" colspan="3") Velocidad ascensional
                 td.text-center(style="border: 2px solid #707070;background-color: #F3F9FF") &lt; 35 m/h
               tr
                 td(style="border: 2px solid #707070;background-color: #FFF" colspan="3") Tiempo de retención hidráulico
