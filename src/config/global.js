@@ -150,7 +150,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/CFA23.pdf',
+        download: 'downloads/921200_CF23_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -261,7 +261,8 @@ export default {
     {
       referencia:
         'Bermeo, M. (2016). Tratamiento de aguas residuales: Técnicas convencionales.',
-      descarga: '/downloads/COMPLETO_libro_aguaUltimoPDF.pdf',
+      link:
+        'http://142.93.18.15:8080/jspui/bitstream/123456789/68/1/COMPLETO_libro_aguaUltimoPDF.pdf',
     },
     {
       referencia:
